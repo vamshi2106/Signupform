@@ -1,0 +1,40 @@
+.head{
+    background-color: #bbb;
+    border-color:2px solid black;
+    height: 30px;
+    width:100%;
+    display:inline-block;
+
+}
+
+
+.list{
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    overflow: hidden;
+    }
+    li{
+    float: left;
+    border-right:1px solid #bbb;
+    }
+    li a{
+    display: block;
+    padding:8px;
+    }
+    .side_bar{
+    float:right;
+    }
+
+.heading{
+    font-size: 60px;
+    margin-top:200px;
+    font-family: courier;
+    font-style: oblique
+}    
+
+.bottom{
+    background-color: #bbb;
+    border-color:2px solid black;
+    height: 20px;
+}

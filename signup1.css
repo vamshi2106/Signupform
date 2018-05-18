@@ -1,0 +1,6 @@
+*{margin: 0; padding: 0;}
+        body{background-image:url(sea.jpg); font-family: 'Times New Roman', Times, serif;}
+        .vamshi{width: 320px; background: floralwhite; padding: 40px 20px; box-sizing: border-box; position:fixed; left: 50%; top: 50%;transform: translate(-50%, -50%);}
+        h1{text-align: center; color: darkslategrey; margin-bottom: 20px;}
+        input{width:100%; background: none; border:1px solid grey; border-radius: 3px; padding: 6px 15px; box-sizing: border-box; margin-bottom: 20px;font-size: 10px;}
+        input{type="button"}; border:0; color:blue;}
